@@ -3,8 +3,8 @@ const divide=function(){
 };
 
 divide();
-const square = (x)=>x*x;
+const square = (2)=>2*2;
 square();
 
-const add = (parameter1, parameter2) => parameter1 + parameter2;
-add();
+const add = (a, b) => a + b;
+add(3,4);
